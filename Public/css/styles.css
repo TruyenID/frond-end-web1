@@ -157,6 +157,8 @@
 }
 .parallax{
 	padding: 180px 0;
+    background-image: url('../images/shot_53.png');
+    background-size: cover;
 }
 .parallax-main{
 	display: inline-block;
